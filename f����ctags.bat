@@ -1,0 +1,1 @@
+E:\gVimPortable\App\vim\vim73\ctags -R --c++-kinds=+p --fields=+iaS --extra=+q -f tags "F:\source"
